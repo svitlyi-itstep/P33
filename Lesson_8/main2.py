@@ -32,5 +32,3 @@ while number < 1 or number > 9:
         active = False
     else:
         print('Некоректне введення! Спробуйте ще раз')
-
-a = 2 + 2
